@@ -28,6 +28,7 @@ Hands-on supervised projects:
 - PiCampus School [[Link]](https://picampus-school.com/programme/school-of-artificial-intelligence/)
 
 ## 2023
+- FPT SOFTWARE AI RESIDENCY [[Link](https://ai.fpt-software.com/ai-residency/)]
 - SandboxAQ Residency Program [[Link](https://www.sandboxaq.com/residencies)]
 - 2023 PhD Residency - ML / Physics - Photonic Inverse Design [[Link](https://x.company/careers-at-x/6637090002/)]
 - Microsoft Research: Postdoc Residency Programme - Deep Learning for Science [[Link](https://careers.microsoft.com/us/en/job/1523421/Postdoc-Residency-Programme-Deep-Learning-for-Science)]
